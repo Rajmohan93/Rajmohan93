@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rajmohan
-- 👀 I’m interested in Front End Development
+- 👀 Frontend Developer
 
 <!---
 Rajmohan93/Rajmohan93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
